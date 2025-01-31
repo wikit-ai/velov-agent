@@ -2,7 +2,7 @@
 
 ## 📄 La mission
 
-Vous êtes contacté par la métropole de Lyon pour fournir un chatbot capable d'assister les usager·ère·s des [Vélov](https://velov.grandlyon.com/fr/home) (vélo en libre service) dans leurs demandes du quotidien.
+Vous êtes contacté par la métropole de Lyon pour fournir un chatbot capable d'assister les usager·ère·s des [Vélo'v](https://velov.grandlyon.com/fr/home) (vélo en libre service) dans leurs demandes du quotidien.
 
 Pas facile ! Heureusement, vos connaissances concernant les dernières technologies du traitement du langage (RAG, LLM, Agents, Embeddings) peuvent vous aider ! 😉
 
@@ -19,13 +19,13 @@ Pour le test, des données on été préparées. Vous les trouverez dans le doss
 
 ## ⚙️ Contraintes
 
-Vous êtes **libre de choisir la méthodologie** que vous souhaitez pour mettre en place dans la conception du chatbot. Cela inclus : 
+Vous êtes **libre de choisir la méthodologie** que vous souhaitez pour mettre en place dans la conception du chatbot. Cela inclut : 
 - les techniques d'IA employées
 - les frameworks utilisés
 
 Toutefois, voici quelques contraintes :
 
-- ne pas y passer trop de temps ! C'est un petit test, pas un projet à mettre ne production.
+- ne pas y passer trop de temps ! C'est un petit test, pas un projet à mettre en production.
 - implémentation majoritairement en Python.
 - garder à l'esprit la scalabilité, éviter les traitement manuels.
 
@@ -45,8 +45,8 @@ Le code peut être partagé sous la forme d'un repo git, ou bien envoyé sous la
 
 ## ❓ Exemples de questions
 
-- Combien me couterai la location d'un vélov à la journée ?
-- Y-a-t-il des velov disponibles à la station <nom_de_station> ?
+- Combien me couterait la location d'un Vélo'v à la journée ?
+- Y-a-t-il des Vélo'v disponibles à la station <nom_de_station> ?
 
 ## Ressources supplémentaires
 
