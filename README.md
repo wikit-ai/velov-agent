@@ -1,4 +1,4 @@
-# Assistant utilisateur Velov' 🤖🚴
+# Assistant Vélo'v 🤖🚴
 
 ## 📄 La mission
 
