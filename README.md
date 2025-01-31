@@ -45,7 +45,7 @@ Le code peut être partagé sous la forme d'un repo git, ou bien envoyé sous la
 
 ## ❓ Exemples de questions
 
-- Combien me couterait la location d'un Vélo'v à la journée ?
+- Combien me coûterait la location d'un Vélo'v à la journée ?
 - Y-a-t-il des Vélo'v disponibles à la station <nom_de_station> ?
 
 ## Ressources supplémentaires
